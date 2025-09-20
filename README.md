@@ -196,7 +196,7 @@ All original functionality preserved with enhanced performance, type safety, and
 ## 📞 Support
 
 For questions or issues:
-- 📧 Email: info@bookfest2025.com
+- 📧 Email: support.jayantak@gmail.com
 - 🐛 Issues: Create GitHub issue
 - 📚 Docs: Check component documentation
 
